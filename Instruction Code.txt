@@ -1,0 +1,16 @@
+Instruction
+
+1. First, Open Any Type Of Website
+2. Go To This Link :
+3. After, That Click Download Button
+4. Once Already Download Go To Your File Explorer Where Did You Save The Download File
+5. Open The File That Has Many Of Kind Of File
+6. Setup Your Database And I Already Provide Code In The File Just Paste The Code.
+7. Just Make Sure Already Install JDK and JVM For Your Java.
+8. Open Your Directory File In Your Application And Paste The File On That Directory
+9. Now, You Just Need To Change Your Database Name And Database Password (Same As MySQL Workbench)
+10. Click At Windows And Go To Show View Click Other Than Seacrh Data Source Explorer
+11. Than Click New Data (Find MYSQL)
+12 Just Put Whaterver Name For Your Database And Once Click Next You To Provide The Real Data Same As MYSQL LOCALHOST AND PASSWWORD
+13. Test Connection Make Sure It Can Connect With Your Database
+14. Now, You Can Run The Code.
